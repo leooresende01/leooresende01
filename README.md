@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://github.com/leooresende01"><img alt="Github" src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"/></a>
     <br />
-    <img src="https://komarev.com/ghpvc/?username=leooresende01&&style=flat&label=Public Views" align="center" />
+    <img src="https://komarev.com/ghpvc/?username=leooresende01&&style=flat&label=Visits" align="center" />
 </p>
 
 ---
