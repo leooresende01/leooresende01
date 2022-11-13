@@ -35,10 +35,6 @@
 
 --- 
 <center>
-  <table>
-    <tr>
-        <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leooresende01&layout=compact&theme=radical"/></td>
-        <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=leooresende01&layout=compact&theme=radical&show_icons=true"/></td>
-    </tr>
-  </table>
+		<img width="500px" src="https://github-readme-stats.vercel.app/api?username=leooresende01&layout=compact&theme=radical&show_icons=true"/>
+        <img width="500px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leooresende01&layout=compact&theme=radical"/>
 </center>
