@@ -34,7 +34,5 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu"/></code>
 
 --- 
-<center>
-		<img width="500px" src="https://github-readme-stats.vercel.app/api?username=leooresende01&layout=compact&theme=radical&show_icons=true"/>
-        <img width="500px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leooresende01&layout=compact&theme=radical"/>
-</center>
+<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=leooresende01&layout=compact&theme=radical&show_icons=true"/>
+<img align="center" width="500px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leooresende01&layout=compact&theme=radical"/>
