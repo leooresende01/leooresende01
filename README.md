@@ -5,7 +5,7 @@
 </p>
 
 ---
-## Development Tools:
+## Development Stack:
 #### Languages, Tools, Frameworks and SO
 
 <p align="center">
