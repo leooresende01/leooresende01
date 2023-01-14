@@ -33,7 +33,3 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/43851118/120894235-15da3b80-c5dd-11eb-82c8-106de91a4f5b.png" alt="Charles Proxy"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu"/></code>
-
---- 
-<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=leooresende01&layout=compact&theme=radical&show_icons=true"/>
-<img align="center" width="500px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leooresende01&layout=compact&theme=radical"/>
