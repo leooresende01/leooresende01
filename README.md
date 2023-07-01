@@ -1,5 +1,6 @@
 <p align="center">
     <a href="https://t.me/leooresende01"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue"/></a>
+    <a href="https://linkedin.com/in/leonard-sousa-resende-296a9024b"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
     <br />
     <img src="https://komarev.com/ghpvc/?username=leooresende01&&style=flat&label=Total visits" align="center" />
 </p>
